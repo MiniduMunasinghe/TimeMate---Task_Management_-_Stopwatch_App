@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TimeMate</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="toolbar_title">Task Manager</string>
+    <string name="navigation_header">Menu</string>
+    <string name="close_drawer">Close Drawer</string>
+</resources>
